@@ -1,0 +1,10 @@
+<package name="empsys" extends="struts-default" >
+	<interceptors>
+		<interceptor name="logger" class="com.learn.empsys.logger"/>
+	</interceptors>
+	<action name="login" class="com.learn.empsys.action.login">
+		<interceptor-ref name="logger" />
+		<result name="input">login.jsp</result>
+		<result name="success" type="redirect-action">/empsys/home</result>
+	</action>
+</package>

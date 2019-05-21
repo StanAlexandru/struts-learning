@@ -1,0 +1,1 @@
+<package name="empsys" extends="struts-default" />

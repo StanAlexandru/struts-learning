@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+    "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+
+	<constant name="struts.devMode" value="true" />
+
+	<constant name="struts.convention.action.mapAllMatches"
+		value="true" />
+
+	<package name="sys" extends="struts-default">
+
+		<action name="index">
+			<result>/index.jsp</result>
+		</action>
+
+		<action name="filesTable"
+			class="com.learn.sis.action.FilesTableAction">
+			<result name="success">/filesTable.jsp</result>
+		</action>
+
+		<action name="downloadFile"
+			class="com.learn.sis.action.DownloadFileAction">
+			<result name="success" type="stream">
+				<param name="contentType">application/octet-stream</param>
+				<param name="inputName">fileInputStream</param>
+				<param name="contentDisposition">attachment;filename="${fileName}"</param>
+				<param name="bufferSize">1024</param>
+			</result>
+		</action>
+
+	</package>
+
+</struts>

@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1443808342.index
+\employee-system-application\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1443808342.index
+\employee-system-application\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1362449590.index
+\hello-world-from-struts2\src\main\java
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2672447662.index
+\hello-world2-from-struts2\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2441565328.index
+\basic-struts\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4015106055.index
+\sis_sim\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2857656554.index
+\hello-world-from-struts2\src\main\java
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2549371865.index
+\sis\src\main\java
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\521114098.index
+\hello-world-from-struts2\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3109490625.index
+\sys\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2441565328.index
+\basic-struts\src\main\resources

@@ -1,0 +1,16 @@
+<%@ taglib uri="/WEB-INF/struts-html.tld"
+			prefix="html" %>
+<html>
+<head>
+	<title>Employee Login Page</title>
+</head>
+	<body>
+		<html:form action="login">
+			<html:text property="userid" 
+						title="User Name" />
+			<html:text property="password" 
+						title="Password" />
+			<html:submit title="submit" />
+		</html:form>
+	</body>
+</html>

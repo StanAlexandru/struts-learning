@@ -1,0 +1,10 @@
+<%@ taglib uri="/WEB-INF/struts-html.tld"
+			prefix="html" %>
+<html>
+<head>
+	<title>Employee Login Page</title>
+</head>
+	<body>
+		
+	</body>
+</html>

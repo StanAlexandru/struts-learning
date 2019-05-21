@@ -1,0 +1,5 @@
+package com.learn.employee.actions;
+
+public class EmployeeListAction {
+
+}

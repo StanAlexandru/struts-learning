@@ -1,0 +1,25 @@
+<package name="empsys" extends="struts-default" >
+	<interceptors>
+		<interceptor name="logger" class="com.learn.empsys.logger"/>
+	</interceptors>
+	<action name="login" 
+			class="com.learn.empsys.action.login">
+		<interceptor-ref name="logger" />
+		<result name="input">login.jsp</result>
+		<result name="success" 
+				type="redirect-action">/empsys/home</result>
+	</action>
+	<action path="/login"
+			name="loginForm"
+			type="com.learn.empsys.action.login"
+			scope="request"
+			input="/login.jsp"
+			validate="true">
+			<forward name="success"
+					path="/home.html" />
+	</action>
+	<global-exceptions>
+		<exception key="some.key" type="java.io.IOException"
+				handler="com.learn.empsys.ExceptionHandler" />
+	</global-exceptions>
+</package>

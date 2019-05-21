@@ -1,0 +1,12 @@
+<%@ taglib uri="/WEB-INF/struts-bean.tld" prefix="bean" %>
+<%@ taglib uri="/WEB-INF/struts-logic.tld" prefix="logic" %>
+<%@ taglib uri="/WEB-INF/struts-html.tld" prefix="html" %>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\struts-learning-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+778367818.index
+1928904240.index
+2970930685.index
+2333821287.index
+1654601379.index
+3975401388.index
+1236186159.index

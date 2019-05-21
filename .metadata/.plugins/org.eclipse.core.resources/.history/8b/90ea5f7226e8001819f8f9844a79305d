@@ -1,0 +1,7 @@
+<package name="empsys" extends="struts-default" >
+	<interceptors>
+		<interceptor name="logger" class="com.learn.empsys.logger"/>
+	</interceptors>
+	<action name="login" class="com.learn.empsys.action.login">
+	</action>
+</package>
